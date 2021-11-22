@@ -8,9 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h2>Welcome to India</h2>
-          <p> This is demo project</p>
-          <p>Is it Updated</p>
-        </p>
+          <p>hello</p>
         Learn React
       </header>
     </div>
