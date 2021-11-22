@@ -9,6 +9,7 @@ function App() {
         <p>
           <h2>Welcome to India</h2>
           <p>hello</p>
+          <p>Updated</p>
         Learn React
       </header>
     </div>
